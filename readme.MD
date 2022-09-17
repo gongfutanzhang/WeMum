@@ -13,10 +13,10 @@
 
 ![1663421315962](https://user-images.githubusercontent.com/113775523/190859463-04b5b290-f978-42ee-909f-41b6cba42f3b.png)
 
- ![1663421333931](https://user-images.githubusercontent.com/113775523/190859472-b4b58ef5-6daa-4f34-95dd-cd716d75bca8.png)
+![1663421333931](https://user-images.githubusercontent.com/113775523/190859472-b4b58ef5-6daa-4f34-95dd-cd716d75bca8.png)
 
   
-    ![1663421347134](https://user-images.githubusercontent.com/113775523/190859487-8df272e6-b347-4ac8-89b8-a0162aeb0fd1.png)
+![1663421347134](https://user-images.githubusercontent.com/113775523/190859487-8df272e6-b347-4ac8-89b8-a0162aeb0fd1.png)
 ![1663421369606](https://user-images.githubusercontent.com/113775523/190859497-d8e410ea-884e-4286-9e51-05bf01a18c87.png)
 ![1663421381760](https://user-images.githubusercontent.com/113775523/190859505-b2dd13e9-216d-449a-9f50-aadad7cad688.jpg)
 
@@ -26,4 +26,5 @@
 # 作者
 如有疑问，欢迎骚扰联系我：开发交流，技术分享，问题答疑，功能建议收集，版本更新通知，安装部署协助，小程序开发定制等。
 俺的微信:
-![Uploading image.png…]()
+ 
+![image](https://user-images.githubusercontent.com/113775523/190859570-bbfdd36b-47d9-49c9-8701-f759dea10daf.png)
